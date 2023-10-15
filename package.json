@@ -1,0 +1,13 @@
+{
+  "name": "task_lvl_2",
+  "main": "script.js",
+  "scripts": {
+    "browse": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "inputmask": "^5.0.8",
+    "parcel": "^2.10.0",
+    "redom": "^3.29.1"
+  }
+}
